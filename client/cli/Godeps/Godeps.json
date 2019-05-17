@@ -1,0 +1,32 @@
+{
+	"ImportPath": "themis/client/cli",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/abiosoft/ishell",
+			"Rev": "a7612be24192ddf96ba5f1fd5654d2e96a7553c7"
+		},
+		{
+			"ImportPath": "github.com/flynn/go-shlex",
+			"Rev": "3f9db97f856818214da2e1057f8ad84803971cff"
+		},
+		{
+			"ImportPath": "github.com/olebedev/config",
+			"Rev": "afea898d27c7d17376ecc60c7c2e73c76b40060e"
+		},
+		{
+			"ImportPath": "themis/client/clientconfig",
+			"Rev": "de505b8f2d95bcbbb542c3b8929496a4a7536dda"
+		},
+		{
+			"ImportPath": "gopkg.in/readline.v1",
+			"Comment": "v1.4",
+			"Rev": "62c6fe6193755f722b8b8788aa7357be55a50ff1"
+		},
+		{
+			"ImportPath": "gopkg.in/yaml.v2",
+			"Rev": "a83829b6f1293c91addabc89d0571c246397bbf4"
+		}
+	]
+}
