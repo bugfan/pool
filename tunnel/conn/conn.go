@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"themis/log"
+	"pool/log"
 )
 
 type Conn interface {

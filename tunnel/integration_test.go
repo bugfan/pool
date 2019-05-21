@@ -8,9 +8,9 @@ import (
 	"testing"
 	"time"
 
-	"themis/log"
-	"themis/tunnel/client"
-	"themis/tunnel/server"
+	"pool/log"
+	"pool/tunnel/client"
+	"pool/tunnel/server"
 )
 
 const (

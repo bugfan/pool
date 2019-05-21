@@ -5,8 +5,9 @@ import (
 	"fmt"
 	"os/exec"
 
+	"pool/client/clientconfig"
+
 	"github.com/abiosoft/ishell"
-	"themis/client/clientconfig"
 )
 
 func main() {

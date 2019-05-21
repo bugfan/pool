@@ -14,11 +14,11 @@ import (
 	"sync/atomic"
 	"time"
 
+	"pool/log"
 	"pool/tunnel/conn"
 	"pool/tunnel/msg"
 	"pool/tunnel/util"
 	"pool/tunnel/version"
-	"themis/log"
 
 	update "github.com/inconshreveable/go-update"
 )

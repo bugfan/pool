@@ -5,9 +5,9 @@ import (
 	"runtime/debug"
 	"time"
 
+	"pool/log"
 	"pool/tunnel/conn"
 	"pool/tunnel/msg"
-	"themis/log"
 )
 
 const (

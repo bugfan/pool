@@ -1,5 +1,5 @@
 {
-	"ImportPath": "themis/client/cli",
+	"ImportPath": "pool/client/cli",
 	"GoVersion": "go1.7",
 	"GodepVersion": "v74",
 	"Deps": [
@@ -16,7 +16,7 @@
 			"Rev": "afea898d27c7d17376ecc60c7c2e73c76b40060e"
 		},
 		{
-			"ImportPath": "themis/client/clientconfig",
+			"ImportPath": "pool/client/clientconfig",
 			"Rev": "de505b8f2d95bcbbb542c3b8929496a4a7536dda"
 		},
 		{

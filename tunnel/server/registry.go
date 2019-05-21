@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"themis/log"
+	"pool/log"
 )
 
 const (

@@ -1,5 +1,5 @@
 {
-	"ImportPath": "themis/client",
+	"ImportPath": "pool/client",
 	"GoVersion": "go1.7",
 	"GodepVersion": "v74",
 	"Deps": [
@@ -12,27 +12,27 @@
 			"Rev": "afea898d27c7d17376ecc60c7c2e73c76b40060e"
 		},
 		{
-			"ImportPath": "themis/log",
+			"ImportPath": "pool/log",
 			"Rev": "3fce637fe52f9a56244e81d3c775939858bdf174"
 		},
 		{
-			"ImportPath": "themis/tunnel/client",
+			"ImportPath": "pool/tunnel/client",
 			"Rev": "3fce637fe52f9a56244e81d3c775939858bdf174"
 		},
 		{
-			"ImportPath": "themis/tunnel/conn",
+			"ImportPath": "pool/tunnel/conn",
 			"Rev": "3fce637fe52f9a56244e81d3c775939858bdf174"
 		},
 		{
-			"ImportPath": "themis/tunnel/msg",
+			"ImportPath": "pool/tunnel/msg",
 			"Rev": "3fce637fe52f9a56244e81d3c775939858bdf174"
 		},
 		{
-			"ImportPath": "themis/tunnel/util",
+			"ImportPath": "pool/tunnel/util",
 			"Rev": "3fce637fe52f9a56244e81d3c775939858bdf174"
 		},
 		{
-			"ImportPath": "themis/tunnel/version",
+			"ImportPath": "pool/tunnel/version",
 			"Rev": "3fce637fe52f9a56244e81d3c775939858bdf174"
 		},
 		{
@@ -40,23 +40,23 @@
 			"Rev": "a83829b6f1293c91addabc89d0571c246397bbf4"
 		},
 		{
-			"ImportPath": "themis/vendor/github.com/alecthomas/log4go",
+			"ImportPath": "pool/vendor/github.com/alecthomas/log4go",
 			"Rev": "3fce637fe52f9a56244e81d3c775939858bdf174"
 		},
 		{
-			"ImportPath": "themis/config",
+			"ImportPath": "pool/config",
 			"Rev": "3fce637fe52f9a56244e81d3c775939858bdf174"
 		},
 		{
-			"ImportPath": "themis/license",
+			"ImportPath": "pool/license",
 			"Rev": "3fce637fe52f9a56244e81d3c775939858bdf174"
 		},
 		{
-			"ImportPath": "themis/utils",
+			"ImportPath": "pool/utils",
 			"Rev": "3fce637fe52f9a56244e81d3c775939858bdf174"
 		},
 		{
-			"ImportPath": "themis/vendor/gopkg.in/yaml.v2",
+			"ImportPath": "pool/vendor/gopkg.in/yaml.v2",
 			"Rev": "3fce637fe52f9a56244e81d3c775939858bdf174"
 		}
 	]

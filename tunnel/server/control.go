@@ -12,11 +12,11 @@ import (
 	"sync/atomic"
 	"time"
 
+	"pool/log"
 	"pool/tunnel/conn"
 	"pool/tunnel/msg"
 	"pool/tunnel/util"
 	"pool/tunnel/version"
-	"themis/log"
 )
 
 const (
